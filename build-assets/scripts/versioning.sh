@@ -36,7 +36,7 @@ function application_build_versioned_components()
     then
       # https://github.com/openocd-org/openocd/commits/master/
       # 30 Sep 2025
-      XBB_OPENOCD_GIT_COMMIT=${XBB_APPLICATION_OPENOCD_GIT_COMMIT:-"e5888bda38f4952e2ae92f7dc5b25fc9a2d1c2b3"}
+      XBB_OPENOCD_GIT_COMMIT=${XBB_APPLICATION_OPENOCD_GIT_COMMIT:-"4e78563a0083d32a7cbb3ebfa92f7b9142637bf3"}
 
       XBB_LIBICONV_VERSION="1.18"
       XBB_TEXINFO_VERSION="7.2"
